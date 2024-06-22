@@ -1,4 +1,4 @@
-# Welcome to Firefly Zero
+# Welcome to Firefly Zero 👋
 
 [Firefly Zero](https://fireflyzero.com/) is a handheld game console running WebAssembly. It has BLE multiplayer, glowing case, and a tactile touch pad. And all of it is fully open source!
 
@@ -6,7 +6,7 @@ Official SDKs:
 
 * 🦀 [Rust](https://github.com/firefly-zero/firefly-rust)
 * 🏃 [Go](https://github.com/firefly-zero/firefly-go)
-* More coming soon
+* ⌛ More coming soon
 
 Learn more:
 
