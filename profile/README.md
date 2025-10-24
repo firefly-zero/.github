@@ -7,6 +7,7 @@ Official SDKs:
 * 🦀 [Rust](https://github.com/firefly-zero/firefly-rust)
 * 🏃 [Go](https://github.com/firefly-zero/firefly-go)
 * 🐀 [C/C++](https://github.com/firefly-zero/firefly-c)
+* ⚡️ [Zig](https://github.com/firefly-zero/firefly-zig)
 * 🧪 [Elixir](https://github.com/firefly-zero/firefly-elixir)
 * ⌛ More coming soon
 
