@@ -8,6 +8,8 @@ Official SDKs:
 * 🏃 [Go](https://github.com/firefly-zero/firefly-go)
 * 🐀 [C/C++](https://github.com/firefly-zero/firefly-c)
 * ⚡️ [Zig](https://github.com/firefly-zero/firefly-zig)
+* 🌙 [Lua](https://github.com/firefly-zero/firefly-lua)
+* 🐰 [MoonBit](https://github.com/firefly-zero/firefly-moon)
 * 🧪 [Elixir](https://github.com/firefly-zero/firefly-elixir)
 * ⌛ More coming soon
 
